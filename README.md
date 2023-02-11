@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 
-My name is Vinícius Terra, but you can call me Vini or Terra. I'm a student from Brazil, currently studying **computer science** in UFSCar Sorocaba college and finishing a intense bootcamp of **Web Software Development** from Driven
+My name is Vinícius Terra, but you can call me Vini or Terra. I'm a student from Brazil, currently studying **computer science** in UFSCar Sorocaba college and i've just finished a intense bootcamp of **Web Software Development** from Driven
 
 #### Some facts about me:
 
